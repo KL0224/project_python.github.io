@@ -1,3 +1,10 @@
+'''
+Project BouncingBalls là project lấy cảm hứng từ trò chơi quả bóng nảy bên trong vòng tròn.
+Ngày tạo project: 31/08/2024.
+Người tạo: Coder Phạm Anh Kiệt
+Nguồn tham khảo: Dung lai lap trinh
+'''
+
 import pygame
 import numpy as np
 import math
